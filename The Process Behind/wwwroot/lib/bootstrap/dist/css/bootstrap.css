@@ -501,7 +501,7 @@ th {
 .glyphicon-step-backward:before {
   content: "\e069";
 }
-.glyphicon-fast-backward:before {
+.glyphicon-fat-backward:before {
   content: "\e070";
 }
 .glyphicon-backward:before {
@@ -519,7 +519,7 @@ th {
 .glyphicon-forward:before {
   content: "\e075";
 }
-.glyphicon-fast-forward:before {
+.glyphicon-fat-forward:before {
   content: "\e076";
 }
 .glyphicon-step-forward:before {
